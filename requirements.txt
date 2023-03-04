@@ -1,0 +1,10 @@
+geotext==0.4.0
+matplotlib==3.7.0
+matplotlib-inline==0.1.6
+nltk==3.8.1
+parso==0.8.3
+pyparsing==3.0.9
+PyPDF2==3.0.1
+regex==2022.10.31
+wordcloud==1.8.2.2
+
