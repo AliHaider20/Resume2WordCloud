@@ -16,6 +16,9 @@ Install the required libraries
 
 `pip install -r requirements.txt`
 
+# Run command
+`python Resume2WC resume.pdf`
+
 # Output
 
 ![alt text](Wordcloud.jpg "Word Cloud")
